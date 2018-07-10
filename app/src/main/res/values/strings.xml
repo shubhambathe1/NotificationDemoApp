@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationDemoApp</string>
+    <string name="channel_name">Channel One</string>
+    <string name="channel_description">Description of Channel One</string>
+    <string name="reply_label">Reply</string>
+    <string name="label">Label</string>
+</resources>
